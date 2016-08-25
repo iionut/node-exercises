@@ -1,0 +1,19 @@
+{
+  "name": "node-exercises",
+  "version": "1.0.0",
+  "description": "A list of NodeJS exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iionut/node-exercises.git"
+  },
+  "author": "Ionut Iosif <iosif.liviu.ionut@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iionut/node-exercises/issues"
+  },
+  "homepage": "https://github.com/iionut/node-exercises#readme"
+}
